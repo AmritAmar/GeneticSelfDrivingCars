@@ -1,6 +1,6 @@
 # Using Genetic Algorithms to create a Self-Driving Car
 
-This is a project I did to learn about Neural Networks and Genetic Algorithms. We use create a neural network to drive a car and then use genetic algorithms to train and find the best weights for the neural network. The network takes in 6 inputs and outputs the acceleration and steering of the car.
+This is a project I did to learn about Neural Networks and Genetic Algorithms. We create a neural network to drive a car and then use genetic algorithms to train and find the best weights for the neural network. The network takes in 6 inputs and outputs the acceleration and steering of the car.
 
 ## Examples
 
