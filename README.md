@@ -47,7 +47,9 @@ The input and hidden layer nodes have both a weight and a bias, that is randomly
 
 ## Future Plans
 
-In the future, I would like to clean up the NeuralNetwork class and make it less hard-coded and more dependent on variables. I would also like to move from Genetic Algorithms on to implementing self-driving cars using Q-Learning and Policy Iteration.
+In the future, I would like to clean up the NeuralNetwork class and make it less hard-coded and more dependent on variables. I also want to improve my heuristic fitness function to minimize the amount of steering changes the car did (so that we get smoother driving).
+
+I would also like to move from Genetic Algorithms on to implementing self-driving cars using Q-Learning and Policy Iteration.
 
 ## Authors
 
